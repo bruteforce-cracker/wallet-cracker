@@ -5,6 +5,9 @@ it is a python based bruteforce private key acquisition software for bitcoin wal
 
 the purpose of this software is purely to fix the vulnerabilities and to make a safer environment for our favorite crypto.
 
-the price of the program is 50 bitcoins non negotiable.
+the price of the program is 50 bitcoins non negotiable. to be sold only 10 times.
 
-kindly contact for more information.
+kindly contact for more information. 
+
+contribute btc : 1Q7hy9jUt1vdRCxVRJ1t27EWFwWqbTwJD2
+
